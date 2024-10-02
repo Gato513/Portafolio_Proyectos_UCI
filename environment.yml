@@ -1,0 +1,52 @@
+name: flaskAPI
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=5.1
+  - bzip2=1.0.8
+  - ca-certificates=2024.7.2
+  - ld_impl_linux-64=2.38
+  - libffi=3.4.4
+  - libgcc-ng=11.2.0
+  - libgomp=11.2.0
+  - libstdcxx-ng=11.2.0
+  - libuuid=1.41.5
+  - ncurses=6.4
+  - openssl=3.0.14
+  - pip=24.2
+  - python=3.11.5
+  - readline=8.2
+  - setuptools=72.1.0
+  - sqlite=3.45.3
+  - tk=8.6.14
+  - tzdata=2024a
+  - wheel=0.43.0
+  - xz=5.4.6
+  - zlib=1.2.13
+  - pip:
+      - annotated-types==0.7.0
+      - anyio==4.4.0
+      - blinker==1.8.2
+      - click==8.1.7
+      - fastapi==0.112.1
+      - flask==3.0.3
+      - flask-mysqldb==2.0.0
+      - greenlet==3.1.1
+      - h11==0.14.0
+      - idna==3.7
+      - itsdangerous==2.2.0
+      - jinja2==3.1.4
+      - markupsafe==2.1.5
+      - mysqlclient==2.2.4
+      - passlib==1.7.4
+      - pydantic==2.8.2
+      - pydantic-core==2.20.1
+      - python-multipart==0.0.9
+      - sniffio==1.3.1
+      - sqlalchemy==2.0.35
+      - starlette==0.38.2
+      - typing-extensions==4.12.2
+      - uvicorn==0.30.6
+      - werkzeug==3.0.4
+prefix: /home/anibal/anaconda3/envs/flaskAPI
